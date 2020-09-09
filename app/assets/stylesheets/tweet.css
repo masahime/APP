@@ -1,0 +1,38 @@
+html {
+  font-size: 90%;
+  height: 100%;
+}
+body {
+  height: 100%;
+}
+ul {
+  margin:0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.blog_title{
+  font-size: 300%;
+  height: 100%;
+}
+h1 {
+  background-color: blue;
+  height: 50px;
+  font-size: 1.5rem;
+}
+.footer{
+  background-color: #4D4D4D;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  display: table;
+}
+.footer p {
+  font-size: 1rem;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+}
